@@ -26,7 +26,7 @@
                                             </thead>
                                             <tbody v-for="university in universities" :key="university.id">
                                                 <tr class="">
-                                                    <td class="text-md text-gray-900 font-bold text-left border px-6 py-4 whitespace-nowrap">
+                                                    <td class="text-md text-black font-medium text-left border px-6 py-4 whitespace-nowrap">
                                                         {{ university.name }}
                                                     </td>
                                                     <td class="text-sm text-gray-900 font-normal border px-6 py-4 whitespace-nowrap" >
