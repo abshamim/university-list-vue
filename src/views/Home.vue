@@ -13,13 +13,13 @@
                                         <table class="min-w-full">
                                             <thead class="border">
                                             <tr class="bg-emerald-500">
-                                                <th scope="col" class="text-sm font-medium border text-white px-6 py-4">
+                                                <th scope="col" class="text-md font-medium border text-white px-6 py-4">
                                                 University
                                                 </th>
-                                                <th scope="col" class="text-sm font-medium border text-white px-6 py-4">
+                                                <th scope="col" class="text-md font-medium border text-white px-6 py-4">
                                                 Country
                                                 </th>
-                                                <th scope="col" class="text-sm font-medium border text-white px-6 py-4">
+                                                <th scope="col" class="text-md font-medium border text-white px-6 py-4">
                                                 Website
                                                 </th>
                                             </tr>
